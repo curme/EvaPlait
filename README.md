@@ -2,7 +2,7 @@
 Our lives are reels of silk, then a goddess plaits them together, named history.
 
 ## Day to start
-Recently
+Recently.
 
 ## Version 1.0
 Version 1.0 is a personal timeline tool, could be used to build your CV.  
